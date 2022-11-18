@@ -1,3 +1,3 @@
-<a href=""><img src="picasso.png" alt="CLIPasso: Semantically-Aware Object Sketching" width="900"/></a>
+<img src="picasso.png" alt="CLIPasso: Semantically-Aware Object Sketching" width="900"/>
 
 Just a peaceful place.
