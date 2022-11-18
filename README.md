@@ -1,6 +1,3 @@
-Just a peaceful place.
+<img src="giraffe.png" alt="CLIPasso: Semantically-Aware Object Sketching" width="200"/>
 
-<!---
-mjcea/mjcea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Just a peaceful place.
