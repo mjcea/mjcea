@@ -1,3 +1,1 @@
-<img src="picasso.png" alt="CLIPasso: Semantically-Aware Object Sketching" width="900"/>
-
-Just a peaceful place.
+Just a peaceful place;
