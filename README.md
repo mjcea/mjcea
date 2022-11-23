@@ -1,4 +1,4 @@
-<a href="[url](https://portal.unicap.br/)"><img src="Unicap_Icam_Tech-01.png" alt="drawing" width="350"/></a>
+<a href="https://portal.unicap.br/"><img src="Unicap_Icam_Tech-01.png" alt="drawing" width="350"/></a>
 
 ## Contato
 Prof. Marcos José Canêjo
