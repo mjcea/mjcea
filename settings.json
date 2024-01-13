@@ -1,0 +1,31 @@
+{
+    "redhat.telemetry.enabled": false,
+    "workbench.iconTheme": "symbols",
+    "editor.inlayHints.enabled": "off",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "off",
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "window.zoomLevel": 1,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "symbols.hidesExplorerArrows": false,
+
+    // meu
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 14,
+    "editor.rulers": [80, 120],
+    "workbench.editor.labelFormat": "short",
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.location": "hidden",
+
+
+}
