@@ -19,13 +19,24 @@
     "workbench.layoutControl.enabled": false,
     "symbols.hidesExplorerArrows": false,
 
-    // meu
-    "workbench.startupEditor": "newUntitledFile",
+    
     "editor.fontSize": 14,
     "editor.rulers": [80, 120],
-    "workbench.editor.labelFormat": "short",
     "editor.minimap.enabled": false,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "workbench.startupEditor": "newUntitledFile",
     "workbench.activityBar.location": "hidden",
+    "explorer.compactFolders": false,
+    "extensions.ignoreRecommendations": true,
 
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset",
+        "frame": false
+    },
 
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none",
+    },
 }
