@@ -2,5 +2,4 @@
 
 ## Contato
 Prof. Marcos José Canêjo
- - **[marcos.azevedo@unicap.br](mailto:marcos.azevedo@unicap.br)**
- - **[<img src="assets/linked.gif" alt="drawing" width="50"/>](in/marcos-josé-canêjo-25704b84)**
+ **[<img src="assets/linked.gif" alt="drawing" width="50"/>](in/marcos-josé-canêjo-25704b84)**
