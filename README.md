@@ -2,5 +2,4 @@
 
 ## Contato
 Prof. Marcos José Canêjo
- - [@mjcea - Prof. Marcos Canêjo](https://www.github.com/mjcea)
  - **[marcos.azevedo@unicap.br](mailto:marcos.azevedo@unicap.br)**
