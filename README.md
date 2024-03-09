@@ -3,4 +3,3 @@
 ## Contatos
 #### marcos.azevedo@unicap.br
 **[<img src="assets/gifs/linked.gif" alt="LinkedIn" width="50"/>](in/marcos-josé-canêjo-25704b84)**
-**[<img src="assets/gifs/what.gif" alt="WhatsApp" width="50"/>](https://www.youtube.com/watch?v=xvFZjo5PgG0)**
