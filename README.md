@@ -1,4 +1,4 @@
-<a href="https://portal.unicap.br/"><img src="assets/Unicap+80Anos.png" alt="drawing" width="350"/></a>
+/* <a href="https://portal.unicap.br/"><img src="assets/Unicap+80Anos.png" alt="drawing" width="350"/></a> */
 
 ## Contatos
 #### marcos.azevedo@unicap.br
