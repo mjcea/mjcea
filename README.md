@@ -2,4 +2,4 @@
 
 ## Contatos
 #### marcos.azevedo@unicap.br
-**[<img src="assets/gifs/linked.gif" alt="LinkedIn" width="50"/>]([[in/marcos-josé-canêjo-25704b84](https://www.linkedin.com/in/marcos-can%C3%AAjo-25704b84/)](https://www.linkedin.com/in/marcos-can%C3%AAjo-25704b84/))**
+https://www.linkedin.com/in/marcos-can%C3%AAjo-25704b84/
